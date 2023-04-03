@@ -27,7 +27,7 @@ The data collected data was sequenced using a lcwgs technique. The low-coverage 
 	* Applies filter to the vcf formatted SNP data
 1. [SnpEff](snpEff.sh)
 	* Annotation from gff3 to vcf
-	1. [Assemblytics.sh](Assemblytics)
+	1. [Assemblytics.sh](Assemblytics) (Optional - May be removed, Not properly running)
 		* Calls structural variants
 1. [SnpSift](snpSift.sh)
 	* Performs Hardy-Weinberg equilibrium and calls TsTv information
